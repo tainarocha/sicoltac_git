@@ -1,6 +1,6 @@
 # sicoltac_git
 
-O código SQL está disponível, será necessário fazer a alteração dos dados da base de dados no arquivo db.php, localizada dentro da pasta config 
+O código SQL está disponível, será necessário fazer a alteração dos dados da base de dados no arquivo db.php, localizado dentro da pasta config 
 
 
 
